@@ -2,6 +2,9 @@ module.exports = {
 	env: {
 		node: true,
 	},
+	"parserOptions": {
+		ecmaVersion: 6,
+	},
 	rules: {
 		'getter-return': 'error',
 		'no-compare-neg-zero': 'error',
