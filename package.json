@@ -1,6 +1,6 @@
 {
 	"name": "@bark/eslint-config",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Eslint config used by the Bark project",
 	"main": "index.js",
 	"keywords": [
