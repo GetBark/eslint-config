@@ -1,0 +1,16 @@
+{
+	"name": "@bark/eslint-config",
+	"version": "0.1.0",
+	"description": "Eslint config used by the Bark project",
+	"main": "index.js",
+	"keywords": [
+		"eslint",
+		"eslintconfig",
+		"bark"
+	],
+	"author": "Louis Capitanchik <contact@louiscap.co>",
+	"license": "LGPL-3.0",
+	"peerDependencies": {
+		"eslint": ">= 4"
+	}
+}
